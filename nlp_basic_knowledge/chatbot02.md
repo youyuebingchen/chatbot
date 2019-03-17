@@ -66,7 +66,7 @@ raw_text --->tokenize (-->POStag) --->lemma/stemming --->stopwords --->wordlist
 
 ---
 ### 深度学习加持
-deep learn is a branch of machine learning based in a set if algorithms that attempt to model high level abstractions in data of multiple linear and non-lineaar transformations
+deep learn is a branch of machine learning based on a set of algorithms that attempt to model high level abstractions in data of multiple linear and non-lineaar transformations
 #### autoencoder
 自编码器：将信息编码处理，再解码 data-specific 
 ### word2vec(mikolov,2013)
