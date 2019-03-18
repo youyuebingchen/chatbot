@@ -2,7 +2,7 @@
 ---
 ## NLP 基础
 nltk为基础
-
+$ x_t $
 ---
 ### nltk
 http://www.nltk.org 推荐3.4（很多都是以3.4为基石）<br/> 
